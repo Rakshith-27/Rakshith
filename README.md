@@ -1,3 +1,17 @@
+![image](https://github.com/user-attachments/assets/75efd8d9-3cc5-4fdb-ada8-82c77d53a9e0)
+
+
+
+
+
+
+
+
+
+
+
+
+
 <h1 align="center">Hi 👋, I'm RAKSHITH VR</h1>
 <h3 align="center">A passionate about software developer</h3>
 
@@ -7,7 +21,7 @@
 
 - 🔭 I’m currently working on **Shopify App development**
 
-- 🌱 I’m currently learning **.Advanced Frameworks like CodeIgniter. API development and testing with GraphQL and Postman Exploring scalable application design.**
+- 🌱 I’m currently learning **Advanced Frameworks like CodeIgniter API development and testing with GraphQL and Postman Exploring scalable application design.**
 
 - 👯 I’m looking to collaborate on **Shopify**
 
