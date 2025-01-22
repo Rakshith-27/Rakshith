@@ -1,6 +1,8 @@
 
 
-👋Hey there! I'm Rakshith VR
+👋Hey there! 
+I'm Rakshith VR
+
 💫 About me
 🔭I’m currently working as software developer intern
 🌱I’m currently learning Application development
